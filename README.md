@@ -61,7 +61,7 @@ If you've downloaded the repository and are making a feature on your local machi
 
 1. Open a terminal window, then clone a forked copy of the Habitate repository by running the following command::
 ```sh
-https://github.com/Sawo-Community/Sawo-Docs.git
+https://github.com/Sawo-Community/Habitate.git
 ```
 2. Install [pipenv](https://docs.pipenv.org/) by using one of the following commands based on your operating system:
 
