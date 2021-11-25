@@ -11,6 +11,7 @@ We are so excited to have Habitate in the first edition of 100 Days of Feature R
      * [Submission Guide](#submission-guide)
      * [Creating Pull Requests](#creating-pull-requests)
      * [Commenting on Pull Requests](#commenting-on-pull-requests)
+     * [Labelling Pull Requests](#labelling-pull-requests)
      * [Reviewing Pull Requests](#reviewing-pull-requests)
 * [Building and Validating](#building-and-validating)
 
@@ -40,7 +41,7 @@ When you are raising a Pull Request, keep in mind to give a proper title of the 
 
 Once a pull request is submitted, multiple committers may comment on it and provide edits or suggestions which you can commit directly. You can also add line comments. Take a look at [Commenting on pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request) for more details.
 
-### Labelling a Pull Request
+### Labelling Pull Requests
 
 A raised Pull Request will be labelled according to the work that has been done in the Pull Request. There are several labels to determine the work that is on-going with the Pull Request. For example, we requested a change in the pull request from the submitter, then the PR will be labelled as *awaiting submitter action*. 
 
