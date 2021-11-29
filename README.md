@@ -4,6 +4,10 @@ We are so excited to have Habitate in the first edition of 100 Days of Feature R
 
 # About the Brand
 
+Habitate is on a mission to help companies build happy communities around them. We want to help customer-obsessed companies become community-led organizations in a shorter period. We have created a community platform that has simplicity and a touch of artistic design. We make it easy for brands to host an online community integrated into their existing website/application without any help from the engineering team.
+
+The company is based out of Chennai, backed by some strong industry names like FirstCheque.VC, Sri Krishnan from Rocketlane, Lakshmi Narayanan from Cognizant, and many more Angel Investors.
+
 # Table of Contest
 
 * [Contributing](#contributing)
