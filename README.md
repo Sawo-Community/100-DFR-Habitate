@@ -1,10 +1,10 @@
-# Habitate in 100 Days of Feature Request
+# Habitat in 100 Days of Feature Request
 
-We are so excited to have Habitate in the first edition of 100 Days of Feature Request. This is the offcial repository of brand Habitate for 100 Days of Feature Request, where you will be able to submit your Pull Request regarding any new feature as a contribution for the contest.
+We are so excited to have Habitat in the first edition of 100 Days of Feature Request. This is the offcial repository of brand Habitat for 100 Days of Feature Request, where you will be able to submit your Pull Request regarding any new feature as a contribution for the contest.
 
 # About the Brand
 
-Habitate is on a mission to help companies build happy communities around them. We want to help customer-obsessed companies become community-led organizations in a shorter period. We have created a community platform that has simplicity and a touch of artistic design. We make it easy for brands to host an online community integrated into their existing website/application without any help from the engineering team.
+Habitat is on a mission to help companies build happy communities around them. We want to help customer-obsessed companies become community-led organizations in a shorter period. We have created a community platform that has simplicity and a touch of artistic design. We make it easy for brands to host an online community integrated into their existing website/application without any help from the engineering team.
 
 The company is based out of Chennai, backed by some strong industry names like FirstCheque.VC, Sri Krishnan from Rocketlane, Lakshmi Narayanan from Cognizant, and many more Angel Investors.
 
@@ -23,11 +23,11 @@ The company is based out of Chennai, backed by some strong industry names like F
 
 ### Getting Started
 
-To get started with the contribution in the Habitate repository, simply fork it into your local GitHub account. Make the changes in the forked repository. In this case, the change will be related to the feature that you will be putting in. You can also clone the repository first, and then fork and push it along with the changes. This will also raise a PR. 
+To get started with the contribution in the Habitat repository, simply fork it into your local GitHub account. Make the changes in the forked repository. In this case, the change will be related to the feature that you will be putting in. You can also clone the repository first, and then fork and push it along with the changes. This will also raise a PR. 
 
 ### Submission Guide
 
-To make a submission for the brand Habitate in 100 Days of Feature Request, as a first step, fork the repository by clicking the fork button at the right hand corner. In the forked repository, you will be able to make changes and upload your code regarding the feature that you will be making and contributing. 
+To make a submission for the brand Habitat in 100 Days of Feature Request, as a first step, fork the repository by clicking the fork button at the right hand corner. In the forked repository, you will be able to make changes and upload your code regarding the feature that you will be making and contributing. 
 
 In the forked repository, create a folder and in that folder, add all the required codes and documents needed for the feature. The folder name should contain your name and the name of the feature which you have built. After naming the folder and later on adding and uploading the contents inside the folder, you will be ready to raise a pull request.
 
@@ -63,9 +63,9 @@ If you've downloaded the repository and are making a feature on your local machi
 
 **Note:** Commands can be executed on Linux, Mac, and Windows (using Powershell).
 
-1. Open a terminal window, then clone a forked copy of the Habitate repository by running the following command::
+1. Open a terminal window, then clone a forked copy of the Habitat repository by running the following command::
 ```sh
-https://github.com/Sawo-Community/Habitate.git
+https://github.com/Sawo-Community/Habitat.git
 ```
 2. Install [pipenv](https://docs.pipenv.org/) by using one of the following commands based on your operating system:
 
