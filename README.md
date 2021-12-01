@@ -8,6 +8,28 @@ Habitat is on a mission to help companies build happy communities around them. W
 
 The company is based out of Chennai, backed by some strong industry names like FirstCheque.VC, Sri Krishnan from Rocketlane, Lakshmi Narayanan from Cognizant, and many more Angel Investors.
 
+# Prizes
+
+If you are thinking there will be no rewards, you are wrong. Let's take a look at the rewards that Habitat is offering for the first, second and third place holders among the participants who will be providing them a feature request or solution. 
+
+**1st prize**  
+
+- $1000 Credit in Habitate, Swag T-shirt, Digital Portrait Art.
+- Cash Reward Of INR 8K from SawoLabs
+- SAWO T-Shirts, Sticker, and Notepad
+
+**2nd prize** 
+
+- $500 Credit, Swag T-shirt, Digital Portrait Art.
+- Cash Reward Of INR 5K from SawoLabs
+- SAWO T-Shirts, Sticker, and Notepad
+
+**3rd Prize** 
+
+- $500 Credit, Swag T-shirt, Digital Portrait Art.
+- Cash Reward Of INR 3K from SawoLabs
+- SAWO T-Shirts, Sticker, and Notepad
+
 # Table of Contest
 
 * [Contributing](#contributing)
