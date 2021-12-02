@@ -8,6 +8,13 @@ Habitate is on a mission to help companies build happy communities around them. 
 
 The company is based out of Chennai, backed by some strong industry names like FirstCheque.VC, Sri Krishnan from Rocketlane, Lakshmi Narayanan from Cognizant, and many more Angel Investors.
 
+# Problem Statements
+
+- While improving engagement is highly operational for Community, how can the product help in making this process easier? Keeping Habitate into consideration you have to design a process which will help in the community engagement.
+- There are various factors when it comes to Community analytics. How would those factors be taken into consideration? Keeping this in mind, design an analytical feature around it.
+
+You can find the same problem statements as **issues**. <b>Read the issues and mention them while submitting a Pull Request.</b>
+
 # Prizes
 
 If you are thinking there will be no rewards, you are wrong. Let's take a look at the rewards that Habitat is offering for the first, second and third place holders among the participants who will be providing them a feature request or solution. 
