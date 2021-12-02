@@ -47,6 +47,8 @@ If you are thinking there will be no rewards, you are wrong. Let's take a look a
 
 To get started with the contribution in the Habitate repository, simply fork it into your local GitHub account. Make the changes in the forked repository. In this case, the change will be related to the feature that you will be putting in. You can also clone the repository first, and then fork and push it along with the changes. This will also raise a PR. 
 
+**Note**: <b>Please be aware that Habitate will not share any codebase for this challenge. You are free to develop your own solution using your creativity and imagination (Like that in a hackathon). But, you have to keep the problem statament in mind while developing a solution.</b>
+
 ### Submission Guide
 
 To make a submission for the brand Habitate in 100 Days of Feature Request, as a first step, fork the repository by clicking the fork button at the right hand corner. In the forked repository, you will be able to make changes and upload your code regarding the feature that you will be making and contributing. 
