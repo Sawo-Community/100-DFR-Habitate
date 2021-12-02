@@ -55,6 +55,8 @@ To make a submission for the brand Habitate in 100 Days of Feature Request, as a
 
 In the forked repository, create a folder and in that folder, add all the required codes and documents needed for the feature. The folder name should contain your name and the name of the feature which you have built. After naming the folder and later on adding and uploading the contents inside the folder, you will be ready to raise a pull request.
 
+**In the folder, you must have to make a README.md file which will have a detailed description about the feature solution.** 
+
 When you are raising a Pull Request, keep in mind to give a proper title of the PR which will be relevant to the changes. In the description section, give a proper description that will tell the summary of the feature request that you have built. Also, you can use markdown in the description that will help you to embed any link or add anything relevant with the description.
 
 ### Creating Pull Requests
