@@ -8,6 +8,13 @@ Habitate is on a mission to help companies build happy communities around them. 
 
 The company is based out of Chennai, backed by some strong industry names like FirstCheque.VC, Sri Krishnan from Rocketlane, Lakshmi Narayanan from Cognizant, and many more Angel Investors.
 
+# Problem Statements
+
+- While improving engagement is highly operational for Community, how can the product help in making this process easier? Keeping Habitate into consideration you have to design a process which will help in the community engagement.
+- There are various factors when it comes to Community analytics. How would those factors be taken into consideration? Keeping this in mind, design an analytical feature around it.
+
+You can find the same problem statements as **issues**. <b>Read the issues and mention them while submitting a Pull Request.</b>
+
 # Prizes
 
 If you are thinking there will be no rewards, you are wrong. Let's take a look at the rewards that Habitat is offering for the first, second and third place holders among the participants who will be providing them a feature request or solution. 
@@ -47,11 +54,15 @@ If you are thinking there will be no rewards, you are wrong. Let's take a look a
 
 To get started with the contribution in the Habitate repository, simply fork it into your local GitHub account. Make the changes in the forked repository. In this case, the change will be related to the feature that you will be putting in. You can also clone the repository first, and then fork and push it along with the changes. This will also raise a PR. 
 
+**Note**: <b>Please be aware that Habitate will not share any codebase for this challenge. You are free to develop your own solution using your creativity and imagination (Like that in a hackathon). But, you have to keep the problem statament in mind while developing a solution.</b>
+
 ### Submission Guide
 
 To make a submission for the brand Habitate in 100 Days of Feature Request, as a first step, fork the repository by clicking the fork button at the right hand corner. In the forked repository, you will be able to make changes and upload your code regarding the feature that you will be making and contributing. 
 
 In the forked repository, create a folder and in that folder, add all the required codes and documents needed for the feature. The folder name should contain your name and the name of the feature which you have built. After naming the folder and later on adding and uploading the contents inside the folder, you will be ready to raise a pull request.
+
+**In the folder, you must have to make a README.md file which will have a detailed description about the feature solution.** 
 
 When you are raising a Pull Request, keep in mind to give a proper title of the PR which will be relevant to the changes. In the description section, give a proper description that will tell the summary of the feature request that you have built. Also, you can use markdown in the description that will help you to embed any link or add anything relevant with the description.
 
