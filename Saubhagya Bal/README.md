@@ -13,7 +13,7 @@
 
 ### Research :
 
-1. So, to make the platform more engaging we have to give more features to the users to allow them to communicate ore using audio, video or a shared virtual event.
+1. So, to make the platform more engaging we have to give more features to the users to allow them to communicate using audio, video or a shared virtual event.
 2. You can see some of the features and their use cases for habitate.io community builders below in my scratch note page.
 
 ![5872884b-6593-49af-a4bc-1cbcb524e038.jfif](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/160f81a4-11cb-4be7-b74f-bebf22b5f91b/5872884b-6593-49af-a4bc-1cbcb524e038.jfif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211204T155936Z&X-Amz-Expires=86400&X-Amz-Signature=a8679c5cbc1d30cfe7faadf323f4b3634cb60743e78cbdb0b605da8faf9cbc20&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%225872884b-6593-49af-a4bc-1cbcb524e038.jfif%22&x-id=GetObject)
