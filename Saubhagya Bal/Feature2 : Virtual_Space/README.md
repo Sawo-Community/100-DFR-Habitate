@@ -15,7 +15,7 @@ Community Leaders don't have to worry about people that are far away as now they
 
 ### Success Metric's to Track
 
-1. less no of people leaving the event room
+1. less no. of people leaving the event room
 2. Average Spend Time
 
 ### Go to market for the feature
