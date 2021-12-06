@@ -1,0 +1,61 @@
+{
+  "roles": [
+    {
+      "id": 1,
+      "name": "admin",
+      "ispermission": [
+        "moderator",
+        "members",
+        "boards",
+        "brands",
+        "seo",
+        "analytics"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "moderator",
+      "ispermission": [
+        "moderator",
+        "members",
+        "boards"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "marketing",
+      "ispermission": []
+    },
+    {
+      "id": 4,
+      "name": "member",
+      "ispermission": []
+    }
+  ],
+  "permissions": [
+    {
+      "id": 1,
+      "name": "moderator"
+    },
+    {
+      "id": 2,
+      "name": "members"
+    },
+    {
+      "id": 3,
+      "name": "boards"
+    },
+    {
+      "id": 4,
+      "name": "brands"
+    },
+    {
+      "id": 5,
+      "name": "seo"
+    },
+    {
+      "id": 6,
+      "name": "analytics"
+    }
+  ]
+}
