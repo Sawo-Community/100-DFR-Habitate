@@ -10,6 +10,7 @@
 
     <body>
         Welcome 100 Days Habitate Feature Request<br><br>
+        <% if(!editmode){ %>
         <ul>
             <b>Permissions you have</b><br><br>
             <% if(roles.length > 0){ %>
@@ -20,6 +21,28 @@
             You can post on this comminity
             <% }  %>
         </ul>
+        <% } else { %>
+        <% if(title === "Moderator"){ %>
+        <form action="/moderator/edit" method="patch">
+            <% }  else { %>
+            <form action="/marketing/edit" method="patch">
+                <% }  %>
+                <% if(permissions.length > 0){ %>
+                <% for(let i=0; i < permissions.length; i++) { %>
+                <% if(roles.length > 0 && roles[0].ispermission.includes(permissions[i].name)){%>
+                <input type="checkbox" name="permissions" id="<%=permissions[i].name%>" value="<%=permissions[i].name%>"
+                    checked>
+                <% } else { %>
+                <input type="checkbox" name="permissions" id="<%=permissions[i].name%>"
+                    value="<%=permissions[i].name%>">
+                <% }  %>
+                <label for="<%=permissions[i].name%>"><%=permissions[i].name%></label><br>
+                <% }  %>
+                <% }  %>
+                <br>
+                <input type="submit" value="submit">
+            </form>
+            <% }  %>
     </body>
 
 </html>
