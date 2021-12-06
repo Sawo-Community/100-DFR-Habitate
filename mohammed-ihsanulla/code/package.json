@@ -1,0 +1,31 @@
+{
+  "name": "Habitate",
+  "version": "1.0.0",
+  "description": "We are so excited to have Habitate in the first edition of 100 Days of Feature Request. This is the offcial repository of brand Habitat for 100 Days of Feature Request, where you will be able to submit your Pull Request regarding any new feature as a contribution for the contest.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sawo-Community/Habitate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sawo-Community/Habitate/issues"
+  },
+  "homepage": "https://github.com/Sawo-Community/Habitate#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
