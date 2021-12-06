@@ -40,6 +40,12 @@ A step by step series of examples that tell you how to get a development env run
 npm install
 ```
 
+## Run Server
+
+```
+npm run server
+```
+
 ## Author
 
 - [@mdihan](https://github.com/mdihsan)
