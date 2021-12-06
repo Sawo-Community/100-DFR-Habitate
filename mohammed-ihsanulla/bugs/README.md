@@ -44,6 +44,18 @@ I'm so excited to have Habitate in 100 Days of Feature Request. This is my forke
 
 - Romove role selection property of loggedin user
 
+## 3. Notification
+
+**Description**
+
+- **Board** have an moderation control, and some one wrinting post.
+- **Admin** and **Moderator** doesn't recieve any notification for the new post on moderator board
+- [video](../assets/videos/moderation_notification.webm)
+
+**Solution**
+
+- Enable notification features to moderated board post, that will help you more attension
+
 ## Author
 
 - [@mdihan](https://github.com/mdihsan)
