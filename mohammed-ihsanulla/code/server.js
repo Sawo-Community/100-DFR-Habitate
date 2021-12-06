@@ -63,7 +63,7 @@ server.get("/moderator/edit", async (req, res) => {
     })
     .catch((err) => res.json(err));
   res.render("index", {
-    title: "Moderator",
+    title: "Edit Moderator",
     roles: roles,
     editmode: true,
     permissions: permissions,
@@ -90,6 +90,7 @@ server.get("/marketing", async (req, res) => {
   res.render("index", {
     title: "Marketing",
     roles: roles,
+    editmode: false,
   });
 });
 
@@ -112,7 +113,7 @@ server.get("/marketing/edit", async (req, res) => {
     })
     .catch((err) => res.json(err));
   res.render("index", {
-    title: "Marketing",
+    title: "Edit Marketing",
     roles: roles,
     editmode: true,
     permissions: permissions,

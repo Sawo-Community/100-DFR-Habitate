@@ -46,6 +46,26 @@ npm install
 npm run server
 ```
 
+### App Endpoints
+
+- Admin - [http://localhost:5000](http:localhost:5000)
+- Moderator - [http://localhost:5000/moderator](http://localhost:5000/moderator)
+- Edit Moderator Permissions - [http://localhost:5000/moderator/edit](http://localhost:5000/moderator/edit)
+- (New Role) Marketing - [http://localhost:5000/marketing](http://localhost:5000/marketing)
+- Add Permissions to Marketing Role - [http://localhost:5000/marketing/edit](http://localhost:5000/marketing/edit)
+- Member - [http://localhost:5000/member](http:localhost:5000/member)
+
+### API Endpoints
+
+- Roles - [http://localhost:5000//api/roles](http://localhost:5000/api/roles)
+- Permissions - [http://localhost:5000/api/permissions](http://localhost:5000/api/permissions)
+
+## Built with
+
+- [Express](https://expressjs.com/) - Server Framework
+- [NodeJS](https://nodejs.org/en/) - Server Environment
+- [JSON-Server](https://www.npmjs.com/package/json-server) - Database
+
 ## Author
 
 - [@mdihan](https://github.com/mdihsan)
