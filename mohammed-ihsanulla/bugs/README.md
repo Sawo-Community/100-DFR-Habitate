@@ -20,6 +20,18 @@ I'm so excited to have Habitate in 100 Days of Feature Request. This is my forke
 
 # Bugs
 
+## 1. Rendering - Create Tag
+
+**Description**
+
+- Issue on rendering when clicked **Create Tag** on members page,
+- History based rendering has been freezed(like page forward/backward) and when I reload the page it wokks fine
+- [video](../assets/videos/create-tag-rendering.webm)
+
+**Solution**
+
+- Instead of routing a page, create a component and call where ever you want in any page
+
 ## Author
 
 - [@mdihan](https://github.com/mdihsan)
