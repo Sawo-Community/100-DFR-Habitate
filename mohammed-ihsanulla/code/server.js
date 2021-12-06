@@ -14,7 +14,15 @@ server.set("view engine", "ejs");
 
 // entry point of host
 server.get("/", async (req, res) => {
-  res.render("index");
+  var roles;
+  // get admin all permissions
+  await axios
+    .get("http://localhost:5000/api/roles?name=admin")
+    .then((responese) => {
+      roles = responese.data;
+    })
+    .catch((err) => res.json(err));
+  res.render("index", { title: "Admin", roles: roles });
 });
 
 server.listen(5000);

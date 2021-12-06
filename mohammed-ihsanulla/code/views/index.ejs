@@ -9,7 +9,17 @@
     </head>
 
     <body>
-        Welcome 100 Days Habitate Feature Request
+        Welcome 100 Days Habitate Feature Request<br><br>
+        <ul>
+            <b>Permissions you have</b><br><br>
+            <% if(roles.length > 0){ %>
+            <% for(let i=0; i < roles[0].ispermission.length; i++) { %>
+            <li><%=roles[0].ispermission[i]%></li>
+            <% }  %>
+            <% } else { %>
+            You can post on this comminity
+            <% }  %>
+        </ul>
     </body>
 
 </html>
