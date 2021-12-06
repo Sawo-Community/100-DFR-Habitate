@@ -32,6 +32,18 @@ I'm so excited to have Habitate in 100 Days of Feature Request. This is my forke
 
 - Instead of routing a page, create a component and call where ever you want in any page
 
+## 2. Admin Controls
+
+**Description**
+
+- In **Members** page, admin can change his role it self.
+- As **Admin** myself, when select and save wrong role, I will loose my control and some need help to recover it.
+- [video](../assets/videos/create-tag-rendering.webm)
+
+**Solution**
+
+- Romove role selection property of loggedin user
+
 ## Author
 
 - [@mdihan](https://github.com/mdihsan)
