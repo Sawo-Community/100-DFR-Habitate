@@ -53,7 +53,7 @@ Also, we can use Druid, an open-source analytics meter. We can implement this as
 
 <img src="assets/druid.gif"/>
 
-This feature can be added using Java Spring Boot Documentation. The below flowchart describes it clearly.
+This feature can be added using Java Spring Boot Documentation. The below flowchart describes it clearly which is an interpretation of how twitter analytics work based on tweets.
 
 <img src="assets/document.gif"/>
 
