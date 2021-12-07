@@ -51,11 +51,11 @@ According to the research done in past few days and experience from my previous 
 The above analytics can be either added by various paid analytics service or can be developed by using documentation provided. 
 Also, we can use Druid, an open-source analytics meter. We can implement this as shown below. 
 
-<img src="assets/druid.gif"/>
+<img src="../assets/druid.gif"/>
 
 An alternative to the above proposal can be done using Java Spring Boot Documentation. The below flowchart describes it clearly which is an interpretation of how twitter analytics work based on tweets.
 
-<img src="assets/document.gif"/>
+<img src="../assets/document.gif"/>
 
 ## Updates:
 As the submission deadline was postponed to 3pm today, I researched more about the analytics and came up with a analytic feature that could help Community members know more about their members and their checkins using.
@@ -70,7 +70,7 @@ This feature will allow us to get the user check-ins on specific locations and w
 
 A flowchart representing the workflow has been made below:
 
-<img src="assets/system-architecture.png/">
+<img src="../assets/system-architecture.png/">
 
 # CONCLUSION
 
