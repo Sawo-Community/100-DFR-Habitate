@@ -57,6 +57,20 @@ An alternative to the above proposal can be done using Java Spring Boot Document
 
 <img src="assets/document.gif"/>
 
+## Updates:
+As the submission deadline was postponed to 3pm today, I researched more about the analytics and came up with a analytic feature that could help Community members know more about their members and their checkins using.
+The repository for the code can be visited from [here](https://github.com/karankartikeya/Habots/tree/master/Habitate-analytics) . 
+This feature will allow us to get the user check-ins on specific locations and we can enhance our dataset according to the data provided. This feature can be implemented using Quarkus, Postgres and Kafka-streams.
+
+**Quarkus** : A Kubernetes Native Java stack tailored for OpenJDK Hotspot and GraalVM, crafted from the bestof breed Java Libraries.
+
+**Postgres** : A free and open source relational database management system.
+
+**Kafka-streams** : It is a client library for building applications and microservices, where the input and output data are stored in Kafka clusters. 
+
+A flowchart representing the workflow has been made below:
+
+<img src="assets/system-architecture.png/">
 
 # CONCLUSION
 
