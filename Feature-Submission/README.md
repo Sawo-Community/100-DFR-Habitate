@@ -45,7 +45,7 @@ Because, Canva has the "Best Way" to [demonstrate everything](https://www.canva.
 
 
 
-# Yes! 🎊
+# Great!! 🎊
 
 
 So now that I have completely covered the overview of all the ----
@@ -66,9 +66,10 @@ So now that I have completely covered the overview of all the ----
 
 I thank, each of you who initiated, guided, mentored and patientlt clarfying our direct or indirect queries involving about "Habitate"
 
-Shoutout to: **Aashish Ramamurthy**, **Sneha Prabhu**  for efficient handling and mentoriing me.
+🥇: **Aashish Ramamurthy**, **Sneha Prabhu**  for efficient handling, guiding and mentoring.
 
 
-#THANK YOU!
+#
 
----
+
+# THANK YOU!
