@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title><%=title%> | Habitate</title>
+    </head>
+
+    <body>
+        Welcome 100 Days Habitate Feature Request<br><br>
+        <% if(!editmode){ %>
+        <ul>
+            <b>Permissions you have</b><br><br>
+            <% if(roles.length > 0){ %>
+            <% for(let i=0; i < roles[0].ispermission.length; i++) { %>
+            <li><%=roles[0].ispermission[i]%></li>
+            <% }  %>
+            <% } else { %>
+            You can post on this comminity
+            <% }  %>
+        </ul>
+        <% } else { %>
+        <% if(title === "Moderator"){ %>
+        <form action="/moderator/edit" method="patch">
+            <% }  else { %>
+            <form action="/marketing/edit" method="patch">
+                <% }  %>
+                <% if(permissions.length > 0){ %>
+                <% for(let i=0; i < permissions.length; i++) { %>
+                <% if(roles.length > 0 && roles[0].ispermission.includes(permissions[i].name)){%>
+                <input type="checkbox" name="permissions" id="<%=permissions[i].name%>" value="<%=permissions[i].name%>"
+                    checked>
+                <% } else { %>
+                <input type="checkbox" name="permissions" id="<%=permissions[i].name%>"
+                    value="<%=permissions[i].name%>">
+                <% }  %>
+                <label for="<%=permissions[i].name%>"><%=permissions[i].name%></label><br>
+                <% }  %>
+                <% }  %>
+                <br>
+                <input type="submit" value="submit">
+            </form>
+            <% }  %>
+    </body>
+
+</html>
